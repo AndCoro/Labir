@@ -3,7 +3,9 @@
 ## Introduction 
 Labir is an Arduino 8x8 matrix game, created for the course " Introduction to robotics ".Labir is a Labyrinth and obviously the goal of the game is to find the exit of the Labyrinth. 
 
-## Electronic Components
+## Electronic Components 
+Labir/Labirinto difficile.png
+      
 1. Arduino UNO R3 board
 2. Max7219 driver
 3. LED matrix 8x8 1088AS
